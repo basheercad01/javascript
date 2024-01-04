@@ -1,0 +1,10 @@
+var a=10;
+var b=20;
+var c="gopal";
+var d="chandran";
+var e=({name:basheer,friends:sandy,friends:alex});
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
